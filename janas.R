@@ -1,8 +1,8 @@
-## Project:  STA 215, Fall 2023, Final Project
-# Located:   Kline TCNJ Google Drive
+## Project:  STA 215, Spring 2024, Final Project
+# Located:   Posit Cloud
 # File Name: lorde songs
 # Date:      2024_2_29
-# Who:       Zachary D. Kline
+# Who:       Kevin Janas
 
 
 
