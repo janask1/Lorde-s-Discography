@@ -82,22 +82,29 @@ ggplot(data, aes(x = emotion_me, y = release_age)) +
        y = "Release Age") +
   theme_minimal()
 
+ggplot(data, aes(x = emotion_me, y = streams)) +
+  geom_boxplot() +
+  labs(title = "Box Plot of Streams and Emotion",
+       x = "Emotion",
+       y = "Streams") +
+  theme_minimal()
 
 ##################################################################################
 ####################   Figure 2: scatter plot             ####################   
 ##################################################################################
-linear_plot <- plot(data$streams, data$release_age)
+linear_plot <- plot(data$release_age, data$streams)
 print(linear_plot)
 
 # add x line and y line for means
 meany <- mean(data$streams)
 meanx <- mean(data$release_age)
 
-abline(h = meanx, col = "black")
-abline(v = meany, col = "black")
+abline(c = meanx, col = "black")
+abline(h = meany, col = "black")
 
-linear_relationship <- lm(data$release_age ~ data$streams, data = data)
+linear_relationship <- lm(data$streams ~ release_age, data = data)
 summary(linear_relationship)
+
 
 # Add the linear regression line to the scatter plot
 # NOTE: double check the scatter plot is currently in your utilities window!
