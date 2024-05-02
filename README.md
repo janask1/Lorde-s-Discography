@@ -16,7 +16,7 @@ The concept of emotion was operationalized by picking the common major emotions 
 
 The concept of age at release was operationalized by researching the age Lorde was when she released that album or EP and creating a quantitative variable that ranged from 16 to 25.
 
-The concept of streams was operationalized through a quantitative variable counting the total number of streams a song has recieved on Spotify only, ranging from 7,899,507 to 1,210,476,099. 
+The concept of streams was operationalized through a quantitative variable counting the total number of streams a song has received on Spotify only, ranging from 7,899,507 to 1,210,476,099. 
 
 The concept of whether or not the song had a music video was measured through a binary variable, where "1" represented having a music video, and "0" for songs that did not.
 
@@ -24,4 +24,4 @@ Similar to the music video variable, the concept of whether or not the song was 
 
 The concept of song length was measured with a quantitative variable counting the total number of seconds long a song was, ranging from 93 to 399.
 
-Lastly, the concept of release name was measured by a qualitative variable tracking the names od the releases I was analyzing, those being "The Love Club EP", "Pure Heroine", "Melodrama", and "Solar Power".
+Lastly, the concept of release name was measured by a qualitative variable tracking the names of the releases I was analyzing, those being "The Love Club EP", "Pure Heroine", "Melodrama", and "Solar Power".
