@@ -6,7 +6,7 @@ To utilize the script, open the "janas.R" file that contains my code for the fin
 
 
 ## **Data**
-The data collected for this analysis was all of Lorde's music releases excluding singles for movies or songs not attached to the original Album or EP. The question being asked was how the emotions of the song can be reflective of how Lorde has aged over the time of her music career, which started at a young and impressionable age. Each unit of analysis is one song and there are 39 obserations.
+The data collected for this analysis was all of Lorde's music releases excluding singles for movies or songs not attached to the original Album or EP. The question being asked was how the emotions of the song can be reflective of how Lorde has aged over the time of her music career, which started at a young and impressionable age. Each unit of analysis is one song and there are 39 observations.
 
 I gathered the data by listening to the albums/EP in order of realease and following the order of the tracklist. I took note of the release name, song length, age of release, if the song was a single, if there was a music video, the streams a song had and the feeling I associated with that song. 
 
